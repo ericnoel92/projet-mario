@@ -29,10 +29,6 @@ Les fichiers CSS et JavaScript, `index.css` et `index.js` respectivement, sont l
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, veuillez forker ce dépôt, effectuer vos modifications, puis soumettre une demande de fusion.
 
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
-
 ## Contact
 
 Si vous avez des questions ou des suggestions concernant ce projet, n'hésitez pas à nous contacter à l'adresse suivante : [eric.antonie.noel92@gmail.com].
