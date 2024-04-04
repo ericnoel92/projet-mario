@@ -1,3 +1,6 @@
+<div>
+  <img src="mario.png>
+</div>
 # On joue à Mario
 
 Ce projet consiste à créer un petit jeu en HTML, CSS et JavaScript où vous pouvez jouer à un jeu inspiré de Mario.
