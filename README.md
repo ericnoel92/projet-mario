@@ -1,5 +1,5 @@
 <div>
-  <img src="mario.png>
+  <img src="mario.png">
 </div>
 # On joue à Mario
 
